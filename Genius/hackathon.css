@@ -1,0 +1,79 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0px; 
+}
+#calendar_form{
+    width: 350px;
+    height: 350px;
+  filter: drop-shadow(3px 3px 3px gray);
+  position: absolute;
+  top:160px;
+  left: 30px;
+}
+.cal{
+    font-size: 20px;
+    position: relative;
+    bottom: 15px;
+    border-top: 1px solid black;
+}
+#img1{
+    width: 350px;
+    height: 350px;
+}
+#todo_list1{
+    width: 350px;
+    height: 350px;
+  filter: drop-shadow(3px 3px 3px gray);
+  position: absolute;
+  top: 160px;
+  left: 700px;
+}
+#img2{
+    width: 350px;
+    height: 350px;
+}
+#explanation1{
+    width: 200px;
+    height: 20px;
+    position: absolute;
+  top:550px;
+  left: 30px;
+}
+
+.exp{
+    width: 75px;
+    height: 30px;
+    background-color: #659acc96;
+    border-radius: 30px;
+}
+#explanation2{
+    width: 200px;
+    height: 20px;
+    position:absolute;
+    top: 550px;
+    left: 698px;
+}
+#head{
+    width: 100vw;
+    height: 100px;
+    background: linear-gradient(#558ABB, rgba(0, 0, 0, 0));
+    
+}
+#Genius{
+    font-size: 30px;
+    position: relative;
+    bottom: 13px;
+    left: 30px;
+}
+.book{
+    position: relative;
+    top: 8px;
+    width: 30px;
+    height: 30px;
+}
+#img3{
+    position: relative;
+    top: 8px;
+    left: 13px;
+}
